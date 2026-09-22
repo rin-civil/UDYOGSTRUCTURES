@@ -22,7 +22,7 @@ or just note: note1, note2, ...
 made by @morinagapltynm
 ################################# */
 
-let placeholder = "green. bharat  drawings. , RK prasad , Getting fee for Srushti , Enquire status of Meena. "
+let placeholder = "green. KABINI , GANESH DRAWINGS , GURU PRASAD , VIPRA SEND INVOICE, DUPA FOOTING DRAWINGS, SALEEM, TRUSS FOR MYSORE ROYAL OAK "
 let input = (args.widgetParameter == null) ? placeholder : args.widgetParameter
 let define = input.split(/\.\s(.*)|\.(.*)/)
 console.log(define)
